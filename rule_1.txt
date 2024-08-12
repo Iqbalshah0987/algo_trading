@@ -1,0 +1,4 @@
+Identify a Trading Idea: Your strategy could be based on technical indicators (e.g., moving averages), market patterns, or statistical methods (e.g., mean reversion).
+Set Rules: Define the specific conditions for entering and exiting trades. For example:
+Buy when the 50-day moving average crosses above the 200-day moving average.
+Sell when the stock price falls by a certain percentage.
